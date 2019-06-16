@@ -3,3 +3,6 @@ https://sprat.top/Experience/Hexo/kill_redirect_301/
 https://sprat.top/Hexo/Experience/gulp4_express_blog/
 https://sprat.top/Hexo/Experience/test4encrypt/
 https://sprat.top/Experience/Hexo/restore_rebuild/
+https://sprat.top/Experience/Soft/MindManager2019/
+https://sprat.top/Writing/vanity/
+https://sprat.top/Experience/Soft/cmd_del_bug/
